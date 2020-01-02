@@ -2,7 +2,7 @@
 A self learning project hosted by analytics vidhya where a machine learning model was used to detect and count mutiple faces in an image.
 
 ## Datasets
-2 datasets were provided by Analytics Vidhya. 1st had the image name and the corresponding head count. Another had the image name and the corresponding bboxes. The second dataset had mutiple rows of the same sample image becuase each image had mutiple faces and thereby mutiple bboxes.
+2 datasets were provided by Analytics Vidhya. 1st had the image name and the corresponding head count. Another had the image name and the corresponding bboxes. The second dataset had multiple rows of the same sample image because each image had mutiple faces and thereby multiple bboxes.
 
 ## I/O
 It was a multi output problem where not only the headcount but also the bboxes around each face had to be detected therefore keras funcional model was used instead of sequential model. 
